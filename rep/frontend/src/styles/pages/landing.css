@@ -1,0 +1,40 @@
+h2{
+  font-family: 'Nunito';
+  font-style: normal;
+  font-size: 3em;
+  color: #F0F0F0; 
+  line-height: 108px;
+  }
+
+a{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-size: 2.5em;
+    color: #F0F0F0; 
+  }
+  
+  .div-style{
+    width: 700px;
+    align-items: center;
+    justify-content: center;
+    /* height: 100vh; */
+    padding-top: 150px;
+    padding-left: 100px;
+  }
+
+  .btn1{
+    color: white;
+   margin-left: 100px;
+   margin-right: 20px;
+   font-size: 40px;
+    border-radius: 50%;
+  }
+
+  .btn2{
+    color: seagreen;
+   }
+
+
+  .txt{
+    color: white;
+  }
